@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GoodFaceDemo</string>
+
+    <string name="address">广东省广州市</string>
+    <string name="constellation">星座</string>
+    <string name="sex_wan">男</string>
+    <string name="mine_slogan">来写上你的个性签名吧！</string>
+    <string name="cash_out">提现</string>
+    <string name="recharge">充值</string>
+    <string name="yan_dou">颜豆</string>
+    <string name="li_zuan">礼钻</string>
+    <string name="enjoy_auth_tip">为享受更好的服务，请尽快完成个人认证！</string>
+    <string name="send_gift">发礼</string>
+    <string name="receiver_gift">收礼</string>
+    <string name="mood">动态</string>
+</resources>
